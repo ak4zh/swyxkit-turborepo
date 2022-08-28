@@ -1,1 +1,0 @@
-import{e as r}from"./index-e4a5a582.js";async function s({setHeaders:e,fetch:o}){const t=await o("/api/listContent.json");if(t.status>400)throw r(t.status,await t.text());const a=await t.json();return e({"cache-control":"public, max-age=60"}),{items:a}}const i=Object.freeze(Object.defineProperty({__proto__:null,load:s},Symbol.toStringTag,{value:"Module"}));export{i as _,s as l};

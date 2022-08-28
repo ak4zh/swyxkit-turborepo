@@ -1,0 +1,1 @@
+const t="https://swyxkit.netlify.app",s="sw-yx/swyxkit",a="https://github.com/"+s,c="SwyxKit",o="swyx's default SvelteKit + Tailwind starter",E="https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png",T="swyx",n="https://youtube.com/swyxTV",_=["Blog"];export{E as D,T as M,_ as P,a as R,c as S,n as a,t as b,o as c};
